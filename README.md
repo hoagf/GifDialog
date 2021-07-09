@@ -26,7 +26,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 
 ```gradle
 dependencies {
-	        implementation 'com.github.hoagf:GifDialog:Tag'
+	        implementation 'com.github.hoagf:GifDialog:1.6'
 	}
 ```
 ## Gif Dialog
