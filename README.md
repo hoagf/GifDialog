@@ -1,15 +1,11 @@
-# FancyGifDialog-Android
+# GifDialog-Android
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=15)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![](https://jitpack.io/v/Shashank02051997/FancyGifDialog-Android.svg)](https://jitpack.io/#Shashank02051997/FancyGifDialog-Android)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FancyGifDialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6652)
+[![](https://jitpack.io/v/hoagf/GifDialog.svg)](https://jitpack.io/#hoagf/GifDialog)
 
-<a href="https://play.google.com/store/apps/details?id=com.shashank.sony.fancylibrarybyshashank">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
+
+
 
 ## Prerequisites
 
@@ -30,11 +26,10 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 
 ```gradle
 dependencies {
-	...
-	implementation 'com.github.Shashank02051997:FancyGifDialog-Android:1.4'
-}
+	        implementation 'com.github.hoagf:GifDialog:Tag'
+	}
 ```
-## Fancy Gif Dialog
+## Gif Dialog
 
 Dialog with two buttons:
 
@@ -97,30 +92,10 @@ new FancyGifDialog.Builder(this)
 
 <img src="https://github.com/Shashank02051997/FancyGifDialog-Android/blob/master/Screenshot/Screenshot_2018-01-07-10-24-37.png" height="420" width="240" hspace="20"><img src="https://github.com/Shashank02051997/FancyGifDialog-Android/blob/master/Screenshot/Screenshot_2018-01-07-10-25-07.png" height="420" width="240" hspace="20"><img src="https://github.com/Shashank02051997/FancyGifDialog-Android/blob/master/Screenshot/Screenshot_2018-01-07-10-25-26.png" height="420" width="240">
 
-## Dependencies
 
-This project use this libraries ~ Thanks to them.
+ 
 
-  [android-gif-drawable](https://github.com/koral--/android-gif-drawable)
-  
-## Contributing
 
-Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/FancyGifDialog-Android/pulls).
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
-but will be thoroughly reviewed .
-
-### Contact - Let's become friend
-- [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
-- [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
-- [Facebook](https://www.facebook.com/shashanksinghal02)
-
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :)
-
-<a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## License
 
